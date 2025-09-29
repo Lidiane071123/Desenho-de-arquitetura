@@ -38,9 +38,6 @@ O fluxo de trabalho implementado simula o **processamento de um pedido online**,
 - `images/`: Capturas de tela e diagramas utilizados na documentação.
 - `docs/insights.md`: Insights e anotações adquiridas durante o desafio.
 
-## 📸 Capturas de Tela
-
-Imagens do ambiente AWS, definições da máquina de estado e execução dos workflows.
 
 ## Insights
 
